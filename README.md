@@ -1,105 +1,81 @@
-<div align="center">
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00EFFF&center=true&vCenter=true&width=800&lines=Hi+there+👋+I'm+Eng.+Ahmed+Dowedar;Software+Engineer+%7C+AI+Solutions+Developer;AI+Bots+%7C+Backend+%7C+Mobile+Dev;Building+Intelligent+%26+Scalable+Systems" />
+</p>
 
-<!-- Dynamic Header Section -->
-<img src="https://raw.githubusercontent.com/EngAhmedDowedar/EngAhmedDowedar/main/assets/blood-drop-banner.png" alt="Blood Bank Expert" width="100%" style="border-radius:15px;border:2px solid #ff4757;margin-bottom:2rem">
+<!-- Cyberpunk Coding GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="600" style="border-radius: 10px; box-shadow: 0 0 15px #00EFFF;" />
+</p>
 
-# 💻 Ahmed Dowedar
-### **Backend Developer | Blood Bank System Specialist**
+<h1 align="center">⚡ System Overview: Eng. Ahmed Dowedar</h1>
 
-[![GitHub Followers](https://img.shields.io/github/followers/EngAhmedDowedar?logo=github&style=for-the-badge&color=ff6b81)](https://github.com/EngAhmedDowedar)
-[![Visitors](https://komarev.com/ghpvc/?username=EngAhmedDowedar&label=Profile%20Views&color=ff4757&style=for-the-badge)](https://github.com/EngAhmedDowedar)
+<p align="center">
+  <b>[ MISSION_OBJECTIVE ]</b> <br/>
+  <i style="color:#00EFFF;">Building intelligent AI-powered software and scalable backend systems that solve real-world problems.</i>
+</p>
 
----
-
-## 🩸 Featured Project: Blood Bank System
-
-[![Blood Bank Repo](https://github-readme-stats.vercel.app/api/pin/?username=EngAhmedDowedar&repo=blood-bank-system&theme=dark&show_owner=true)](https://github.com/EngAhmedDowedar/blood-bank-system)
-
-**Key Features:**
-- 🏥 Real-time blood inventory tracking
-- 🔍 Advanced donor search system
-- 📊 Interactive analytics dashboard
-- 🔒 Secure multi-level authentication
-
-**Tech Stack:**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<p align="center">
+  💻 <b>Software Engineer</b> | 🤖 <b>AI Solutions & Bots Developer</b> <br/>
+  🎓 <b>Software Engineering Student @ Damietta University</b> <br/>
+  📱 <b>Focus:</b> AI Systems, Android (Kotlin/Jetpack Compose), FastAPI, Scalable Architectures <br/>
+  🛡️ <b>Aesthetics:</b> Cyberpunk | High-Tech | Dark UI
+</p>
 
 ---
 
-## 📈 GitHub Analytics
+## 🚀 [ Core_Directives: Main Projects ]
 
-<div align="center">
+> **🚑 Relief AI**  
+> Smart Humanitarian Emergency Response Platform utilizing AI for crisis management, rapid response, and data analysis.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngAhmedDowedar&show_icons=true&count_private=true&theme=dark)](https://github.com/EngAhmedDowedar)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EngAhmedDowedar&layout=compact&theme=dark)](https://github.com/EngAhmedDowedar)
+> **🎓 Univy**  
+> AI-Powered Educational Platform featuring automated research generation, PDF analysis via RAG pipelines, and seamless Telegram integration.
 
-</div>
+> **📺 IPTV Platform**  
+> Native Android & Android TV player built with Kotlin, Jetpack Compose, and ExoPlayer, focusing on optimized video streaming and MAC address authentication.
 
----
+> **🎮 Waker Game Servers**  
+> Legacy game server restoration involving packet analysis (Wireshark), custom backend infrastructure, and high-performance service management.
 
-## 🛠️ Technical Arsenal
-
-**Core Development**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <!-- تمت إضافة بايثون هنا -->
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) <!-- إضافة PHP كمهارة أساسية -->
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Security**  
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+> **🩸 Qotrat Amal**  
+> Comprehensive university blood donation system for managing donors, blood requests, and real-time notifications.
 
 ---
 
-## 📞 Let's Connect
+## 🛠️ [ Tech_Arsenal: Skills & Tools ]
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-dowedar-05955b299)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201555594743)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmeddowedar@students.du.edu.eg)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eng_ahmed_dowedar)
+<p align="center">
+  <b>[ Languages & Core ]</b><br/>
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,php,js,html,css,sql&theme=dark" />
+</p>
+
+<p align="center">
+  <b>[ Backend & Mobile Architecture ]</b><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,androidstudio,postgres,mysql,sqlite,firebase&theme=dark" />
+</p>
+
+<p align="center">
+  <b>[ DevOps, Infrastructure & Tools ]</b><br/>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,git,github,docker,vscode,idea,postman&theme=dark" />
+</p>
 
 ---
 
-## 💡 Development Philosophy
-> *"Building secure systems that save lives, one line of code at a time."*
+## 📊 [ System_Diagnostics: GitHub Activity ]
 
-</div>
+<p align="center">
+  <!-- ⚠️ تنبيه: استبدل YOUR_GITHUB_USERNAME باسم المستخدم الخاص بك في الرابطين التاليين ⚠️ -->
+  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&fire=00EFFF&ring=00EFFF" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=true&title_color=00EFFF&icon_color=00EFFF" />
+</p>
 
-<!-- Custom Styling -->
-<style>
-  :root {
-    --blood-red: #ff4757;
-    --dark-bg: #0d1117;
-    --text-primary: #c9d1d9;
-  }
-  
-  body {
-    background: var(--dark-bg) !important;
-    color: var(--text-primary) !important;
-  }
-  
-  h1, h2, h3 {
-    color: var(--blood-red) !important;
-    margin: 1rem 0;
-  }
-  
-  img[alt='Blood Bank Expert'] {
-    box-shadow: 0 0 30px rgba(255,71,87,0.2);
-  }
-  
-  .repo-card {
-    border: 2px solid #30363d !important;
-    transition: transform 0.3s ease;
-  }
-  
-  .repo-card:hover {
-    transform: scale(1.02);
-  }
-</style>
+---
+
+<p align="center">
+  <img src="https://capsules-render.vercel.app/api?type=waving&color=00EFFF&height=100&section=footer"/>
+</p>
+<p align="center">
+  ⚡ <i>System initialized by <b>Eng. Ahmed Dowedar</b> • Powered by AI & Cyberpunk Vibes</i> ⚡
+</p>
