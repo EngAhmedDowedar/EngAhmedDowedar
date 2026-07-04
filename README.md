@@ -1,7 +1,9 @@
+<!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00EFFF&center=true&vCenter=true&width=800&lines=Hi+there+👋+I'm+Eng.+Ahmed+Dowedar;Software+Engineer+%7C+AI+Solutions+Developer;AI+Bots+%7C+Backend+%7C+Mobile+Dev;Building+Intelligent+%26+Scalable+Systems" />
 </p>
 
+<!-- Cyberpunk Coding GIF -->
 <p align="center">
   <img src="https://i.pinimg.com/originals/1c/54/f7/1c54f7b06d7723c21afc5035bf88a5ef.gif" width="600" />
 </p>
@@ -25,6 +27,7 @@
 ## 🚀 [ System_Core: Project_Portfolio ]
 
 <table width="100%">
+  <!-- Project 1 -->
   <tr>
     <td width="100%">
       <img src="https://img.shields.io/badge/CORE__PROJECT-RELIEF__AI-00EFFF?style=for-the-badge&logo=ai&logoColor=black" />
@@ -34,6 +37,7 @@
       <code>FastAPI</code> • <code>PostgreSQL</code> • <code>Kotlin</code> • <code>AI Agents</code> • <code>Systemd</code>
     </td>
   </tr>
+  <!-- Project 2 -->
   <tr>
     <td>
       <img src="https://img.shields.io/badge/AI__PLATFORM-UNIVY-00EFFF?style=for-the-badge&logo=google-drive&logoColor=black" />
@@ -43,6 +47,7 @@
       <code>Python</code> • <code>Gemini API</code> • <code>Google AI Studio</code> • <code>Redgear / Rclone</code> • <code>Telegram API</code>
     </td>
   </tr>
+  <!-- Project 3 -->
   <tr>
     <td>
       <img src="https://img.shields.io/badge/STREAMING-IPTV__PLATFORM-00EFFF?style=for-the-badge&logo=android&logoColor=black" />
@@ -52,6 +57,7 @@
       <code>Kotlin</code> • <code>Jetpack Compose</code> • <code>ExoPlayer</code> • <code>FFmpeg</code> • <code>Video Compression</code>
     </td>
   </tr>
+  <!-- Project 4 -->
   <tr>
     <td>
       <img src="https://img.shields.io/badge/INFRASTRUCTURE-WAKER__GAME__SERVER-00EFFF?style=for-the-badge&logo=linux&logoColor=black" />
@@ -61,6 +67,7 @@
       <code>Flask</code> • <code>Python</code> • <code>Wireshark</code> • <code>Network Analysis</code> • <code>VPS Deployment</code>
     </td>
   </tr>
+  <!-- Project 5 -->
   <tr>
     <td>
       <img src="https://img.shields.io/badge/COMMUNITY-QOTRAT__AMAL-00EFFF?style=for-the-badge&logo=drop&logoColor=black" />
@@ -70,16 +77,43 @@
       <code>PHP</code> • <code>MySQL</code> • <code>WebSockets</code> • <code>Real-time Notifications</code>
     </td>
   </tr>
+  <!-- Project 6 -->
   <tr>
     <td>
       <img src="https://img.shields.io/badge/AUTOMATION-ACADEMIC__AI__BOTS-00EFFF?style=for-the-badge&logo=telegram&logoColor=black" />
       <br/><br/>
       <strong>🤖 Intelligent Agents & Educational Micro-SaaS</strong>
-      <p>بناء وتطوير منصات وأنظمة ذكية مؤتمتة لخدمة الأغراض التعليمية مثل (OnlineEnglish4All) وبوتات تليجرام خدمية تقوم بتوليد الشهادات، إدارة الاختبارات، وتوليد ملفات Word و PDF بشكل تلقائي ذكي بدمج خدمات السحاب ومستندات جوجل.</p>
+      <p>بناء وتطوير منصات وأنظمة ذكية مؤتمتة لخدمة الأغراض التعليمية ومشاريع التخرج، وبوتات تليجرام خدمية تقوم بتوليد الشهادات، إدارة الاختبارات، وتوليد ملفات Word و PDF بشكل تلقائي ذكي.</p>
       <code>Gemini API</code> • <code>Document Processing</code> • <code>OCR Workflows</code> • <code>Nginx</code>
     </td>
   </tr>
 </table>
+
+---
+
+## 📂 [ Source_Code: Featured Repositories ]
+
+<p align="center">
+  <!-- المشروع الأول -->
+  <a href="https://github.com/EngAhmedDowedar/YOUR_REPO_NAME_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngAhmedDowedar&repo=YOUR_REPO_NAME_1&theme=tokyonight&border_color=00EFFF&title_color=00EFFF&icon_color=00EFFF&hide_border=false" width="48%" />
+  </a>
+  <!-- المشروع الثاني -->
+  <a href="https://github.com/EngAhmedDowedar/YOUR_REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngAhmedDowedar&repo=YOUR_REPO_NAME_2&theme=tokyonight&border_color=00EFFF&title_color=00EFFF&icon_color=00EFFF&hide_border=false" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- المشروع الثالث -->
+  <a href="https://github.com/EngAhmedDowedar/YOUR_REPO_NAME_3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngAhmedDowedar&repo=YOUR_REPO_NAME_3&theme=tokyonight&border_color=00EFFF&title_color=00EFFF&icon_color=00EFFF&hide_border=false" width="48%" />
+  </a>
+  <!-- المشروع الرابع -->
+  <a href="https://github.com/EngAhmedDowedar/YOUR_REPO_NAME_4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EngAhmedDowedar&repo=YOUR_REPO_NAME_4&theme=tokyonight&border_color=00EFFF&title_color=00EFFF&icon_color=00EFFF&hide_border=false" width="48%" />
+  </a>
+</p>
 
 ---
 
@@ -112,6 +146,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsules-render.vercel.app/api?type=waving&color=00EFFF&height=100&section=footer"/>
+</p>
 <p align="center">
   ⚡ <i>System initialized by <b>Eng. Ahmed Dowedar</b> • Powered by AI & Cyberpunk Vibes</i> ⚡
 </p>
